@@ -43,6 +43,6 @@ References used are ETG SKILL INDIA FOR PYTHON AI/ML tutorials, W3Schools.
 I am Leetha Muthamma D M.
 I am a student pursuing Engineering under the branch Computer Science and Engineering from Coorg Institue of Technology(CIT).
 I am currently in my final year and I have done DBMS mini project on Web Based Internship Management system.
-Inventory management system project  is a part of my internship in Skill India Internship on Python for AI/ML by ELite Techno Groups
+Inventory management system project  is a part of my internship in Skill India Internship on Python for AI/ML by ELite Techno Groups.
 This project code is written using Python.
 
